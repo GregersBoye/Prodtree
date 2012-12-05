@@ -5,6 +5,8 @@
 <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 	
 	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+	<script type="text/javascript" src="locales/DA_dk.js"></script>
+	
 	<script type="text/javascript" src="script.js"></script>
 	
 	<title>Production tree</title>
